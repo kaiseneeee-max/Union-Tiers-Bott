@@ -1,0 +1,26 @@
+{
+  "guilds": {
+    "1537754281120366646": {
+      "setupName": "Union Tier Testing",
+      "testerRoles": [],
+      "notifyRoles": [],
+      "messageRoles": [],
+      "resultsRoles": [
+        "1537868691775946782",
+        "1537868458522316890",
+        "1537868549857476658",
+        "1537868354289803304"
+      ],
+      "ticketCategory": "1538350953332347043",
+      "welcome": {
+        "channelId": "1537757762073923624",
+        "message": "Welcome {user} to Union Tier Testing we are happy that you chose us we hope you have the greatest times here! 😋"
+      },
+      "farewell": {
+        "channelId": "",
+        "message": ""
+      },
+      "resultRoles": []
+    }
+  }
+}
