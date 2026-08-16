@@ -4,7 +4,7 @@
   "description": "Union Tiers Discord Bot",
   "type": "module",
   "scripts": {
-    "start": "node src/index.mjs"
+    "start": "node index.mjs"
   },
   "dependencies": {
     "discord.js": "^14.27.0",
